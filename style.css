@@ -30,13 +30,13 @@ body {
 .card-wrapper {
     background-color: white;
     max-width: 400px;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     border: 1px solid black;
     overflow: hidden;
-    padding: 1rem;
+    padding: 1.5rem;
     box-shadow: 8px 8px 0px 0px black;
     display: grid;
-    gap: 1rem;
+    gap: 1.5rem;
     margin-inline: 1rem;
 }
 
@@ -88,9 +88,10 @@ body {
     align-items: center;
     gap: 1rem;
     font-weight: 900;
+    font-size: .9rem;
 }
 
 .profile > img {
-    width: 40px;
+    width: 35px;
     aspect-ratio: 1;
 }   
